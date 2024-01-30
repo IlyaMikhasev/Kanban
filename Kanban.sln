@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KanbanServer", "KanbanServer.csproj", "{51177081-8B77-428A-975D-C49C9F4A4997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KanbanClient", "..\KanbanClient\KanbanClient.csproj", "{DC541AC3-68F4-4A5A-9436-96FBE3D75163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51177081-8B77-428A-975D-C49C9F4A4997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51177081-8B77-428A-975D-C49C9F4A4997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51177081-8B77-428A-975D-C49C9F4A4997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51177081-8B77-428A-975D-C49C9F4A4997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC541AC3-68F4-4A5A-9436-96FBE3D75163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC541AC3-68F4-4A5A-9436-96FBE3D75163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC541AC3-68F4-4A5A-9436-96FBE3D75163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC541AC3-68F4-4A5A-9436-96FBE3D75163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE0FBB71-681D-4407-AE9C-7A94595D2ABF}
+	EndGlobalSection
+EndGlobal
